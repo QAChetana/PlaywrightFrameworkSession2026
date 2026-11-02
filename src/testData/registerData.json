@@ -1,0 +1,34 @@
+[
+    {
+        "firstname": "Hermione",
+        "lastname": "Granger",
+        "email": "hermione@gmail.com",
+        "telephone":908760000,
+        "password": "admin123",
+        "confirmPassword": "admin123"
+    },
+    {
+        "firstname": "Harry",
+        "lastname": "Potter",
+        "email": "harry@gmail.com",
+        "telephone":908767676,
+        "password": "admin123",
+        "confirmPassword": "admin123"
+    },
+    {
+        "firstname": "Ron",
+        "lastname": "Weasley",
+        "email": "ron@gmail.com",
+        "telephone":9087611176,
+        "password": "admin123",
+        "confirmPassword": "admin123"
+    },
+    {
+        "firstname": "Albus",
+        "lastname": "Dumbledore",
+        "email": "albus@gmail.com",
+        "telephone":9089999996,
+        "password": "admin123",
+        "confirmPassword": "admin123"
+    }
+]
