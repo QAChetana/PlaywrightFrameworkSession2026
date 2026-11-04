@@ -55,7 +55,7 @@ test(`Negative scenario for CSV Login test using ${data.username} and ${data.pas
 try{
 await loginPage.doLogin(data.username,data.password);
 let errorMsg = await loginPage.getPageErrorMessage1();
-expect(errorMsg).toContain(' Warning: No match for E-Mail Address and/or Password.');
+expect(errorMsg).toContain(' Warning: No match for E-Mail Address and/or Password. ');
 }catch(error){
 await loginPage.doLogin(data.username,data.password);
 let errorMsg = await loginPage.getPageErrorMessage2();
